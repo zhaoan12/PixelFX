@@ -1,6 +1,6 @@
 # Image Filtering using CUDA
 
-This is the implementation of image filters, including Box Filter, Median Filter, Sobel Filter, Laplacian Filter, Sharpenning Filter, TV Filter, Prewitt Filter, ect using CUDA on GPU. I also implemented these filters using C++ and OpenCV.
+This is the implementation of image filters, including Box Filter, Median Filter, Sobel Filter, Laplacian Filter, Sharpenning Filter, TV Filter, Prewitt Filter, ect using CUDA on GPU. I also implemented these filters using C++. Includes ImGui graphical interface.
 
 Example of the input image and resulted image after filtering:
 
